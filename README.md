@@ -1,5 +1,3 @@
 MonLaunch
 =========
-Hello.
-
-If the lack of information in this file angers you, you likely overestimate the degree to which I care.
+A simple Windows utility to launch programs on a specific monitor. Ideal for digital signage applications.
